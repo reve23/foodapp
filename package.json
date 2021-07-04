@@ -1,6 +1,6 @@
 {
   "name": "food-recipe",
-  "homepage": "http://reve23.github.io/foodapp"
+  "homepage": "http://reve23.github.io/foodapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
